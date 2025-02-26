@@ -39,6 +39,8 @@ class CrowdfundingApp:
     @classmethod
     def save_data(cls):
         """Save users and projects to JSON files."""
+
+        #save usrs with unique email only
         # Save users
         with open(cls.USERS_FILE, "w") as file:
             users_data = [user.__dict__ for user in cls.users]

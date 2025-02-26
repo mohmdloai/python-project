@@ -27,3 +27,5 @@ def is_owner(project, user_email):
 def is_logged_in(project, user_email):
 
     return project.logged_in_email == user_email
+#this func should be implemented !
+#def is_unique_email(email):
