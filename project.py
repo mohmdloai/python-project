@@ -1,4 +1,3 @@
-# models/project.py
 class Project:
     def __init__(self, title, details, total_target, start_time, end_time, owner_email):
         self.title = title

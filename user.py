@@ -1,4 +1,3 @@
-# models/user.py
 class User:
     def __init__(self, first_name, last_name, email, password, mobile_phone):
         self.first_name = first_name

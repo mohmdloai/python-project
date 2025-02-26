@@ -1,10 +1,10 @@
 [
     {
-        "title": "iti fund in ramdan",
-        "details": "support iti with 20000$",
+        "title": "iti for dev",
+        "details": "some details about it",
         "total_target": 200000.0,
-        "start_time": "2025-03-15",
-        "end_time": "2025-05-15",
+        "start_time": "2025-04-10",
+        "end_time": "2025-07-10",
         "owner_email": "mhmd@gmail.com"
     }
 ]

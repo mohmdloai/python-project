@@ -1,4 +1,3 @@
-# services/crowdfunding_app.py
 import json
 import os
 from user import User
