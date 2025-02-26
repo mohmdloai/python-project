@@ -1,0 +1,37 @@
+[
+    {
+        "first_name": "mhmd ",
+        "last_name": "loai",
+        "email": "mhmd@gmail.com",
+        "password": "passwoord",
+        "mobile_phone": "01092938888"
+    },
+    {
+        "first_name": "ali",
+        "last_name": "anwar",
+        "email": "ali@gmail.com",
+        "password": "passwoord",
+        "mobile_phone": "01530100543"
+    },
+    {
+        "first_name": "reem",
+        "last_name": "othman",
+        "email": "reem@gmail.com",
+        "password": "passwoord",
+        "mobile_phone": "01530900644"
+    },
+    {
+        "first_name": "hima",
+        "last_name": "ali",
+        "email": "hima@gmail.com",
+        "password": "passwoord",
+        "mobile_phone": "01289677334"
+    },
+    {
+        "first_name": "mhmd",
+        "last_name": "ali",
+        "email": "mhmd@gmail.com",
+        "password": "passwoord",
+        "mobile_phone": "01230500878"
+    }
+]
